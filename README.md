@@ -15,12 +15,5 @@ I'm a tech enthusiast and student at Strathmore University, passionate about **c
 - Languages: Python, Java, C, HTML, CSS, JavaScript, SQL
 - Tools: Git, Linux (I use Arch!), WordPress, VS Code
 
-## 📈 GitHub Stats
-
-![Shamsudin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shamsudin-X&show_icons=true&theme=default)
-
-
-
----
 
 > “Focus, build, grow.” 🚀
