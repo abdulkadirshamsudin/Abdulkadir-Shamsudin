@@ -19,10 +19,7 @@ I'm a tech enthusiast and student at Strathmore University, passionate about **c
 
 ![Shamsudin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shamsudin-X&show_icons=true&theme=default)
 
-## 📬 Let’s Connect
 
-- Email: [abdulkadir.shamsudin@strathmore.edu]
-- LinkedIn: [linkedin.com/in/shamsudin](https://www.linkedin.com/in/shamsudin)
 
 ---
 
